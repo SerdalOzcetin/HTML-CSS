@@ -1,0 +1,40 @@
+.total{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  font-weight: 300;
+}
+.collabrotion{
+  display: inline-block;
+}
+.image01{
+  width: 450px;
+  border-style:double ;
+  border-color: #0000ff69;
+  
+}
+.introduction{
+  display:inline-block;
+  width: 450px;
+  
+}
+.header{
+  display:inline-block;
+  width: 450px;
+  margin-left: 20px;
+}
+
+.header-sub01{
+  margin-top: 0px;
+  margin-bottom: 14px;
+}
+
+.paragraph{
+  display: inline-block;
+  margin-top: 0px;
+}
+.header02{
+  margin-top: 14px;
+  margin-bottom: 14px;
+}

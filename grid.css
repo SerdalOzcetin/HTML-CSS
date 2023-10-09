@@ -1,0 +1,26 @@
+.total{
+  display: grid;
+  margin-top: 25px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-bottom: 200px;
+  column-gap: 25px;
+  row-gap: 15px;
+}
+.div01{
+  background-color: lightblue;
+}
+.div02{
+  background-color: lightpink;
+}
+.div03{
+  background-color: lightblue;
+}
+.div04{
+  background-color: lightpink;
+}
+.div05{
+  background-color: lightblue;
+}
+.div06{
+  background-color: lightpink;
+}
